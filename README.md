@@ -1,0 +1,1 @@
+This is an archive of solutions (sometimes incomplete) of programming challenges found in various sites.
