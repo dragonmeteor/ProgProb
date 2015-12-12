@@ -31,6 +31,8 @@ public class Main {
     long getCount(long config) {
         if (!count.containsKey(config)) {
             if (config == 0) {
+
+
                 count.put(config, 1L);
             } else {
                 int row = getRowToRemove(config);
